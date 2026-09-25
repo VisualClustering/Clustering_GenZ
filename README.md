@@ -1,4 +1,4 @@
-Reproducibility
+*Reproducibility*
 
 The analysis was conducted on 606 images (out of 1.885 images).
 
