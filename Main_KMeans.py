@@ -69,9 +69,6 @@ from Output import (
 sample_name = ("GenZ_Madagascar_Morocco_Nepal_n")
 
 image_folders = [
-    Path(r"C:\Users\zime9516\Desktop\DatenGenZ\0_Madagaskar\0_gen_z_madagascar_filter\Bilder"),
-    Path(r"C:\Users\zime9516\Desktop\DatenGenZ\0_Marokko\0_system_tbdel_filter\Bilder"),
-    Path(r"C:\Users\zime9516\Desktop\DatenGenZ\0_Nepal\0_GenZ Nepal\gen.znepal_filter\Bilder"),
 ]
 
 valid_extensions = {".jpeg", ".jpg", ".webp", ".png", ".heic", ".heif"}
